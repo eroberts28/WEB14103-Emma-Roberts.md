@@ -11,5 +11,5 @@
 
 ### Blog Posts
 
-1. Week 1: [EyeBombing](http://fourthfloor.raveweb.net/eroberts/2016/11/21/eyebombing/)
+Week 1: [EyeBombing](http://fourthfloor.raveweb.net/eroberts/2016/11/21/eyebombing/)
 
