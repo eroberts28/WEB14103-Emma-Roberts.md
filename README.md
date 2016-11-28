@@ -29,7 +29,7 @@ Week 9: [CSS tricks]()
 
 ### Mini Lessons
 
-1. [Visual Perception Principles]()
+1. [Visual Perception Principles](https://github.com/eroberts28/VisualPerceptionPrinciple/blob/master/README.md)
 
 2. [Typography] (https://drive.google.com/file/d/0BwQJTPKjKYjxQV9mUm11aVJBMnM/view?usp=sharing)
 
