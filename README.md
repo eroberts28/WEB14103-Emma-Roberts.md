@@ -39,7 +39,7 @@ Week 9: [CSS tricks]()
 
 ### Projects
 
-1. [EyeBombing]()
+1. [EyeBombing](https://github.com/OculusBomb/EyeBombing)
 
 2. [OneTweet] (https://github.com/OneTweet/CanYouHearMeNow)
 
