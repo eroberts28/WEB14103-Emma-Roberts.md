@@ -43,7 +43,7 @@ Week 9: [CSS tricks]()
 
 2. [OneTweet] (https://github.com/OneTweet/CanYouHearMeNow)
 
-3. [Union Hack]()
+3. [Union Hack](https://github.com/eroberts28/UnionHack)
 
 4. [Code in your plate](https://thimbleprojects.org/eroberts27/140606)
 
