@@ -15,7 +15,7 @@ Week 1: [EyeBombing](http://fourthfloor.raveweb.net/eroberts/2016/11/21/eyebombi
 
 Week 2: [OneTweet](http://fourthfloor.raveweb.net/eroberts/2016/11/21/one-tweet/)
 
-Week 3: [Union Hack]()
+Week 3: [Union Hack](http://fourthfloor.raveweb.net/eroberts/2016/11/30/union-hack/)
 
 Week 4: [Formative assessment](http://fourthfloor.raveweb.net/eroberts/2016/10/31/formative-assessment/)
 
@@ -25,7 +25,7 @@ Week 7: [The Web's Grain](http://fourthfloor.raveweb.net/eroberts/2016/11/21/the
 
 Week 8: [Code in your plate](http://fourthfloor.raveweb.net/eroberts/2016/11/22/code-in-your-plate/)
 
-Week 9: [CSS tricks]()
+Week 9: [CSS tricks](https://github.com/eroberts28/How-to-CSS-Transitions)
 
 ### Mini Lessons
 
