@@ -11,6 +11,8 @@
 
 ### Blog Posts
 
+For each lesson throughout the term we had to write up a blog post about a variety of things. These included: our design process for our projects, how our mini lessons went (including working with our team) and also our opinion on theories linked to articles for reading.
+
 Week 1: [EyeBombing](http://fourthfloor.raveweb.net/eroberts/2016/11/21/eyebombing/)
 
 Week 2: [OneTweet](http://fourthfloor.raveweb.net/eroberts/2016/11/21/one-tweet/)
@@ -29,6 +31,8 @@ Week 9: [CSS tricks](https://github.com/eroberts28/How-to-CSS-Transitions)
 
 ### Mini Lessons
 
+I found the mini lessons that we presented were very effective. We got to learn a lot by teaching the rest of the class which I think helped me remember the information a lot easier, but also the interactive discussion when each group presented to us. 
+
 1. [Visual Perception Principles](https://github.com/eroberts28/VisualPerceptionPrinciple/blob/master/README.md)
 
 2. [Typography] (https://drive.google.com/file/d/0BwQJTPKjKYjxQV9mUm11aVJBMnM/view?usp=sharing)
@@ -38,6 +42,8 @@ Week 9: [CSS tricks](https://github.com/eroberts28/How-to-CSS-Transitions)
 4. [CSS Tricks] (https://github.com/eroberts28/CSSTricks)
 
 ### Projects
+
+We also got to complete a few different projects. This was my favourite part as it helped me develop skills in areas that I didn't know much about before. I enjoyed the design aspect of it the most but I also really benefitted from learning from scratch about coding which was great.
 
 1. [EyeBombing](https://github.com/OculusBomb/EyeBombing)
 
