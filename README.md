@@ -33,7 +33,7 @@ Week 9: [CSS tricks](https://github.com/eroberts28/How-to-CSS-Transitions)
 
 I found the mini lessons that we presented were very effective. We got to learn a lot by teaching the rest of the class which I think helped me remember the information a lot easier, but also the interactive discussion when each group presented to us. 
 
-1. [Visual Perception Principles] (https://github.com/eroberts28/VisualPerceptionPrinciple/blob/master)
+1. [Visual Perception Principles] (https://github.com/eroberts28/VisualPerceptionPrinciple)
 
 2. [Typography] (https://drive.google.com/file/d/0BwQJTPKjKYjxQV9mUm11aVJBMnM/view?usp=sharing)
 
