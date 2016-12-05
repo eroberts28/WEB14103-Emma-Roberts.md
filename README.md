@@ -33,7 +33,7 @@ Week 9: [CSS tricks](https://github.com/eroberts28/How-to-CSS-Transitions)
 
 I found the mini lessons that we presented were very effective. We got to learn a lot by teaching the rest of the class which I think helped me remember the information a lot easier, but also the interactive discussion when each group presented to us. 
 
-1. [Visual Perception Principles](https://github.com/eroberts28/VisualPerceptionPrinciple/blob/master/README.md)
+1. [Visual Perception Principles] (https://github.com/eroberts28/VisualPerceptionPrinciple/blob/master/README.md)
 
 2. [Typography] (https://drive.google.com/file/d/0BwQJTPKjKYjxQV9mUm11aVJBMnM/view?usp=sharing)
 
@@ -45,13 +45,13 @@ I found the mini lessons that we presented were very effective. We got to learn 
 
 We also got to complete a few different projects. This was my favourite part as it helped me develop skills in areas that I didn't know much about before. I enjoyed the design aspect of it the most but I also really benefitted from learning from scratch about coding which was great.
 
-1. [EyeBombing](https://github.com/OculusBomb/EyeBombing)
+1. [EyeBombing] (https://github.com/OculusBomb/EyeBombing)
 
 2. [OneTweet] (https://github.com/OneTweet/CanYouHearMeNow)
 
-3. [Union Hack](https://github.com/eroberts28/UnionHack)
+3. [Union Hack] (https://github.com/eroberts28/UnionHack)
 
-4. [Code in your plate](https://thimbleprojects.org/eroberts27/140606)
+4. [Code in your plate] (https://thimbleprojects.org/eroberts27/140606)
 
 * [Code in your plate zip] (https://drive.google.com/drive/folders/0BwQJTPKjKYjxRFdWT2pZQV9XRlE?usp=sharing)
 * [Recipe.md] (https://github.com/eroberts28/Recipe)
