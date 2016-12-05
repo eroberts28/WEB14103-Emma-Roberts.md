@@ -42,6 +42,8 @@ I found the mini lessons that we presented were very effective. We got to learn 
 
 4. [CSS Tricks] (https://github.com/eroberts28/CSSTricks)
 
+5. [Summative](https://github.com/eroberts28/Summative)
+
 ### Projects
 
 We also got to complete a few different projects. This was my favourite part as it helped me develop skills in areas that I didn't know much about before. I enjoyed the design aspect of it the most but I also really benefitted from learning from scratch about coding which was great.
@@ -57,9 +59,8 @@ We also got to complete a few different projects. This was my favourite part as 
 * [Code in your plate zip] (https://drive.google.com/drive/folders/0BwQJTPKjKYjxRFdWT2pZQV9XRlE?usp=sharing)
 * [Recipe.md] (https://github.com/eroberts28/Recipe)
 
-### Summative Presentation
 
-[Summative] (https://github.com/eroberts28/Summative)
+
 
 
 
