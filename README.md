@@ -27,7 +27,8 @@ Week 7: [The Web's Grain](http://fourthfloor.raveweb.net/eroberts/2016/11/21/the
 
 Week 8: [Code in your plate](http://fourthfloor.raveweb.net/eroberts/2016/11/22/code-in-your-plate/)
 
-Week 9: [CSS tricks](https://github.com/eroberts28/How-to-CSS-Transitions)
+Week 9: [CSS tricks Blog Post](http://fourthfloor.raveweb.net/eroberts/2016/12/05/how-to-transitions/)
+* [CSS tricks GitHub with Thimble demo](https://github.com/eroberts28/How-to-CSS-Transitions)
 
 ### Mini Lessons
 
